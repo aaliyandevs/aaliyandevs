@@ -31,6 +31,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyan-devs/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/03102482057)
 
----
-
 💬 “Your most unhappy customers are your greatest source of learning.” — Bill Gates, Microsoft
