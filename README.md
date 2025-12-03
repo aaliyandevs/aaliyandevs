@@ -30,7 +30,7 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyan-devs/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/03102482057)
-[![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/aaliyan-devs-projects)
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-white?logo=vercel&logoColor=black&color=000000)](https://vercel.com/aaliyan-devs-projects)
 
 ---
 
